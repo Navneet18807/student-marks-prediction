@@ -3,12 +3,12 @@
 This project predicts student marks based on the number of hours they studied using a simple Linear Regression model.
 
 ## Technologies Used
--Python
--Pandas
--NumPy
--Matplotlib
--Seaborn
--scikit-learn
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- scikit-learn
 
 
 ##  How to Run
