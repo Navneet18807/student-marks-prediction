@@ -10,6 +10,10 @@ This project predicts student marks based on the number of hours they studied us
 - Seaborn
 - scikit-learn
 
+## features 
+- Data Visualzation
+- Predication
+
 
 ##  How to Run
 1. Clone the repo or download the files
@@ -19,3 +23,5 @@ This project predicts student marks based on the number of hours they studied us
 ##  Output Example
 - Scatterplot of actual vs predicted marks
 - Evaluation metrics: MAE, MSE, RMSE
+
+
